@@ -1,6 +1,6 @@
 # Read-from-CSV
 
-AIM:
+## AIM:
 
 To write a python program for reading content from a CSV file.
 
