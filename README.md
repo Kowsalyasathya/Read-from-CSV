@@ -4,7 +4,7 @@
 
 To write a python program for reading content from a CSV file.
 
-ALGORITHM:
+## ALGORITHM:
 ## Step 1:
 
 Import pandas as pd.
